@@ -41,7 +41,7 @@
 <br>
 <div align=center>
     
-  <img width=390 height=300 src="https://streak-stats.demolab.com/?user=priyansu-nayak&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 height=500 src="https://streak-stats.demolab.com/?user=priyansu-nayak&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
   <br/>
 <br>
