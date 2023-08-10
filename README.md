@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- 💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/priyansu-nayak/priyansu-nayak/issues)**
+ 
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
